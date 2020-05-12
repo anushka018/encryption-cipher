@@ -1,6 +1,7 @@
 # message-encryption-decryption
-Uses a super cipher to encrypt and decrypt string messages 
-Cipher descriptions
+Uses a super cipher to encrypt and decrypt strings 
+
+# Background cipher information
 1. Caesar cipher (also known as a shift cipher)
 shifts the characters in a string by a given value to a new characters in the English aplhabet 
 more info: https://en.wikipedia.org/wiki/Caesar_cipher
@@ -10,3 +11,9 @@ more details: https://en.wikipedia.org/wiki/Bifid_cipher
 3. Word replacement cipher (substitution cipher)
 changes any occurances of a given string to the corresponding replacement 
 further details: https://en.wikipedia.org/wiki/Substitution_cipher
+A super cipher combines all 3 of these ciphers for encryption and decryption of messages
+This cipher is more difficult to break, whereas any of these three ciphers used alone would be fairly simple to crack
+
+# How to
+1. Download files
+2. enter strings to encrypt and decrypt with super cipers using the EncryptUtils class
