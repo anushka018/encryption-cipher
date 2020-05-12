@@ -1,4 +1,3 @@
-// Name: Anushka Angamuthu, x500: angam003
 /** Class that creates a Super Cipher object and uses it to decrypt a message*/
 public class FinalDecoding {
 
