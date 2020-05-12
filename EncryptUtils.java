@@ -1,4 +1,3 @@
-// Name: Anushka Angamuthu, x500: angam003
 /**Class that encrypts and decrypted a combination of multiple ciphers*/
 public class EncryptUtils {
 
