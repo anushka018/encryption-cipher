@@ -1,4 +1,3 @@
-// Name: Anushka Angamuthu, x500: angam003
 /**Class that implements a Word Replacement Cipher which inherits from BaseCipher*/
 public class WordReplacementCipher extends BaseCipher{
     private String replaceFrom;
