@@ -1,4 +1,3 @@
-// Name: Anushka Angamuthu, x500: angam003
 /**Class that implements a EvenOdd Cipher which inherits from BaseCipher*/
 public class EvenOddCipher extends BaseCipher {
 
