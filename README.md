@@ -16,4 +16,4 @@ This cipher is more difficult to break, whereas any of these three ciphers used 
 
 # How to
 1. Download files
-2. enter strings to encrypt and decrypt with super cipers using the EncryptUtils class
+2. Enter strings to encrypt and decrypt with super cipers using the EncryptUtils class
