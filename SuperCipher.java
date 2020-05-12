@@ -1,5 +1,4 @@
 import java.util.Arrays;
-// Name: Anushka Angamuthu, x500: angam003
 /**Class that implements a Super Cipher formed by applying a chain of ciphers and inherits from BaseCipher*/
 public class SuperCipher extends BaseCipher{
     private BaseCipher [] ciphers;
